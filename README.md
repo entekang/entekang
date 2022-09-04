@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ente Kang
-- 👀 I’m interested in Biostatisticsf and Applied Statistics. In my free time I like to play sports and travel
+- 👀 I’m interested in Biostatistics and Applied Statistics. In my free time I like to play sports and travel
 - 🌱 I’m currently learning more SAS programming
 - 📫 How to reach me: ente.kang@mail.utoronto.ca
 
